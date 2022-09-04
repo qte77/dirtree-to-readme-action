@@ -5,7 +5,7 @@ dirtree-to-readme-action
 [![CodeQL](https://github.com/qte77/dirtree-to-readme-action/actions/workflows/codeql.yml/badge.svg)](https://github.com/qte77/dirtree-to-readme-action/actions/workflows/codeql.yml)
 [![Lint Code Base](https://github.com/qte77/dirtree-to-readme-action/actions/workflows/linter.yml/badge.svg)](https://github.com/qte77/dirtree-to-readme-action/actions/workflows/linter.yml)
 [![Links (Fail Fast)](https://github.com/qte77/dirtree-to-readme-action/actions/workflows/links-fail-fast.yml/badge.svg)](https://github.com/qte77/dirtree-to-readme-action/actions/workflows/links-fail-fast.yml)
-[![wakatime](https://wakatime.com/badge/github/qte77/dirtree-to-readme-action.svg)](https://wakatime.com/badge/github/qte77/dirtree-to-readme-action)
+[![wakatime](https://wakatime.com/badge/github/qte77/project/dirtree-to-readme-action.svg)](https://wakatime.com/badge/github/qte77/project/dirtree-to-readme-action)
 
 [DESCRIPTION]
 
